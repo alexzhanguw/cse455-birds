@@ -1,5 +1,8 @@
 # CSE 455 Birds Kaggle Competition Spring 2023!
 
+### Video Deliverable
+https://drive.google.com/file/d/14u5UdPLVrQGzENDHyoxZeAY0OOqUvpOE/view?usp=sharing
+
 ## Introduction
 
 I really wanted to explore a new direction of computer vision outside of what we learned in class for this final project, but I couldn't find a group and wasn't ready to commit to an idea when project proposals were due. However, I really enjoyed participating in this Kaggle competetion as well! This README will serve as my deliverable website which covers this project's problem description, previous work used, my approach, datasets used, my results, and some discussion regarding the overall project.
