@@ -3,7 +3,7 @@
 ### Video Deliverable
 https://drive.google.com/file/d/14u5UdPLVrQGzENDHyoxZeAY0OOqUvpOE/view?usp=sharing
 
-*UPDATE:* After recording this, I tried one final model with the remaining GPU Time I had left and achieved a public evaluation score of 0.823 on Kaggle. This used the same approach, except I swapped ResNet18 out for ResNet50. Most of the behavior was the same, but my training and validation accuracies with this model were actually a little bit worse. Nonetheless, this model still performed the best for the Competition, which I attribute to overfitting.
+*UPDATE:* After recording this, I tried one final model with the remaining GPU Time I had left and achieved a public evaluation score of 0.823 on Kaggle. This used the same approach, except I swapped ResNet18 out for ResNet50. Most of the behavior was the same, but my training and validation accuracies with this model were actually a little bit worse. Nonetheless, this model still performed the best for the competition, which I attribute to overfitting.
 
 ## Introduction
 
